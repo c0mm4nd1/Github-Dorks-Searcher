@@ -21,7 +21,7 @@ This script performs a GitHub search for sensitive information (credentials, API
 ## 🚀 Usage
 Run the script and enter your GitHub token and the keyword to search:
 ```sh
-python github_dorking.py
+python Github_dorks_searcher.py
 ```
 
 ## ⚠️ Disclaimer
