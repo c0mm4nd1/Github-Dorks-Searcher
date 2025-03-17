@@ -10,7 +10,7 @@ This script performs a GitHub search for sensitive information (credentials, API
 ## 📥 Installation
 1. Clone this repository:
    ```sh
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/c0mm4nd1/Github-Dorks-Searcher.git)
+   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/c0mm4nd1/Github-Dorks-Searcher.git)
    cd Github-Dorks-Searcher
    ```
 2. Install dependencies:
